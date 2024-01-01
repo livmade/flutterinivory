@@ -1,6 +1,6 @@
 # flutterinivory
 
-A new Flutter project.
+A new Flutter project. Learning Flutter and Dart by creating a "Roll the Die" app.
 
 ## Getting Started
 
